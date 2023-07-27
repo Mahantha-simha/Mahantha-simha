@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="">
+<img src="20230726_132706_0000.png">
 <h1 align="center">Hi 👋, I'm Mahantha Simha R</h1>
 <h3 align="center">Aspiring Full Stack Dev | CS Grad. (BCA @2024) | HTML | CSS | JavaScript | Node js</h3>
 <img src="" height="300">
